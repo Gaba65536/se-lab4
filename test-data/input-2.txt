@@ -1,0 +1,4 @@
+GT4500,1,0,2,0  #megfelelo hajo letrehozasa
+TORPEDO,SINGLE  #tuzelesek 1-2 van elotte
+TORPEDO,SINGLE  #0-2 van előtte
+TORPEDO,SINGLE  #0-1 van előtte
